@@ -1,0 +1,5 @@
+Text Classification: You'll need a model to classify the type of the article (e.g., earnings call, product announcement). This will likely involve training a text classification model on a labeled dataset.
+
+Sentiment Analysis: You'll need a model to determine the sentiment of the article (e.g., positive, negative). This is a common task in natural language processing, and there are many pre-trained models available that you can use.
+
+Time Series Analysis: You'll need to analyze past stock patterns and dates. This is a time series problem, and there are many techniques you can use, from statistical methods to machine learning models.
